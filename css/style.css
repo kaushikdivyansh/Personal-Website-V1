@@ -52,7 +52,7 @@ body {
 	min-height: 100vh;
 	align-content: flex-start;
 	animation-name: zoomIn;
-	animation-duration: 2s;
+	animation-duration: 3s;
 }
 
 .introduction {
@@ -341,7 +341,7 @@ body {
 		padding: 5% 5% 2.5% 5%;
 		flex: 0 1 70vw;
 		animation-name: fadeInDown;
-		animation-duration: 2s;
+		animation-duration: 3s;
 	}
 
 	.introduction-heading {
@@ -366,7 +366,7 @@ body {
 		padding: 10% 5% 2.5% 5%;
 		flex: 0 1 30vw;
 		animation-name: fadeInRight;
-		animation-duration: 2s;
+		animation-duration: 3s;
 	}
 
 	.skills-heading,
@@ -387,7 +387,7 @@ body {
 		flex: 1 1 30vw;
 		order: 1;
 		animation-name: fadeInUp;
-		animation-duration: 2s;
+		animation-duration: 3s;
 	}
 
 	.projects-list-item-links {
@@ -404,7 +404,7 @@ body {
 		padding: 0% 5% 2.5% 5%;
 		flex: 0 1 70vw;
 		animation-name: fadeInLeft;
-		animation-duration: 2s;
+		animation-duration: 3s;
 	}
 
 	.contact-heading {
