@@ -51,8 +51,8 @@ body {
 	flex-flow: column nowrap;
 	min-height: 100vh;
 	align-content: flex-start;
-	animation-name: zoomIn;
-	animation-duration: 3s;
+	animation-name: fadeInLeft;
+	animation-duration: 2s;
 }
 
 .introduction {
