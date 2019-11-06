@@ -41,18 +41,3 @@ window.onclick = function (event) {
         fconnectModal.style.opacity = "0";
     }
 }
-
-// const loader = document.querySelector(".loader");
-// const fadeEffect = setInterval(() => {
-//     if (!loader.style.opacity) {
-//         loader.style.opacity = 1;
-//     }
-//     if (loader.style.opacity > 0) {
-//         loader.style.opacity -= 1;
-//         loader.style.zIndex = -1;
-//     } else {
-//         clearInterval(fadeEffect);
-//     }
-// }, 1750);
-
-// window.addEventListener("load", this.fadeEffect)
