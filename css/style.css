@@ -46,7 +46,7 @@ body {
 	color: #fffff0;
 }
 
-.loader {
+/* .loader {
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -63,7 +63,7 @@ body {
 	stroke-dasharray: 500;
 	stroke-dashoffset: 500;
 	animation: dash 1.5s linear;
-}
+} */
 
 .container {
 	display: flex;
@@ -625,7 +625,7 @@ body {
 	}
 }
 
-@keyframes dash {
+/* @keyframes dash {
 	0% {
 		stroke-dashoffset: 500;
 	}
@@ -633,7 +633,7 @@ body {
 	100% {
 		stroke-dashoffset: 0;
 	}
-}
+} */
 
 @keyframes zoomIn {
 	from {
